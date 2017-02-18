@@ -25,6 +25,7 @@ h2{
 h3{
   font-size: 16px;
   font-weight: 300;
+  text-align: left;
 }
 
 a{
@@ -144,4 +145,8 @@ a:hover{
 .card img {
   width: 30px;
   height: auto;
+}
+
+.fa-star {
+  color: #ffd700;
 }
